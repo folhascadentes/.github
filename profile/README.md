@@ -1,6 +1,10 @@
-## Hello fellow traveller 👋
+# 🌟 Folhas Cadentes 🍃
+
+## 👋 Hello fellow traveller 
 
 "Life is naturally unfair, but we are capable of making it artificially fair."
+
+## 📖 About Us
 
 Welcome to Folhas Cadentes, also known as the Association for Innovation in Computer Accessibility (AICA). We are a non-profit group based in Cascavel, Paraná, Brazil, working tirelessly to make the digital world fair for everyone.
 
@@ -10,13 +14,18 @@ The term "cadentes" or falling, brings to mind the image of a falling star, ofte
 
 Together, we form a "falling star" of leaves, working towards achieving something greater. We are here to help, but the real stars are the people we are trying to help.
 
+## 🎯 Our Mission
+
 Our mission is to improve accessibility in computer systems. We do this by developing innovative projects, setting accessibility standards, and promoting awareness and digital inclusion. We also offer technical support and consultancy to companies and institutions, helping them make their digital platforms more accessible.
 
 We believe in the power of cooperation and scientific advancement. That's why we encourage working together with other institutions and continually strive to learn more and innovate in the field of computer accessibility.
 
+## 🚀 Our Projects
+
 Check out our first project, Mamão, at [mamao.dev.br](http://www.mamao.dev.br). Mamão is a sign language translator that is free for everyone. Whether you're an individual, a company looking to build upon our work, or a public sector organization, we're here to work with everyone and for everyone.
 
+![Cover Image](profile/images/hands.png)
+
+## 🌐 Our Vision
+
 Our mission is to make the internet a fairer and more accessible place, and we're happy to share our solutions with anyone who wants to use them. Let's make the digital world fair for everyone, together.
-
-![Cover Image](./images/hands.png)
-
