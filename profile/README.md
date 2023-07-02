@@ -1,6 +1,6 @@
 # 🌟 Folhas Cadentes 🍃
 
-## 👋 Hello fellow traveller 
+## 👋 Hello fellow traveller
 
 "Life is naturally unfair, but we are capable of making it artificially fair."
 
@@ -24,7 +24,9 @@ We believe in the power of cooperation and scientific advancement. That's why we
 
 Check out our first project, Mamão, at [mamao.dev.br](http://www.mamao.dev.br). Mamão is a sign language translator that is free for everyone. Whether you're an individual, a company looking to build upon our work, or a public sector organization, we're here to work with everyone and for everyone.
 
-![Cover Image](profile/images/hands.png)
+<p align="center">
+  <img src="profile/images/hands.png" alt="Cover Image" width="420"/>
+</p>
 
 ## 🌐 Our Vision
 
